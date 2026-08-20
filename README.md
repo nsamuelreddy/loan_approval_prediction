@@ -173,9 +173,6 @@ using Joblib.
 * Analyzed model performance using classification metrics and a confusion matrix.
 * Identified feature importance, with CIBIL score being the dominant feature.
 
-## Disclaimer
-
-This project is intended for **educational and demonstration purposes**. The model's predictions should not be used as the sole basis for real-world financial or lending decisions.
 
 ## Author
 
